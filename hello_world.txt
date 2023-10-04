@@ -1,1 +1,10 @@
 Ta 5 conto o torrone
+
+1 - Criamos o Repositório remoto no GitHub;
+2 - Clonamos em nossa máquina local usando **git clone** + chave ssh;
+3 - Então adicionamos este arquivo no diretório;
+4 - Modificamos README.md e ele;
+5 - **git status** para verificar o estado do Repositório;
+6 - **git add** para adicionar arquivos modificados;
+7 - **git commit -m** + "mensagem" para adicionar o que foi feito;
+8 - **git log** para ver o histórico de commits
