@@ -7,4 +7,5 @@ Ta 5 conto o torrone
 5 - **git status** para verificar o estado do Repositório;
 6 - **git add** para adicionar arquivos modificados;
 7 - **git commit -m** + "mensagem" para adicionar o que foi feito;
-8 - **git log** para ver o histórico de commits
+8 - **git log** para ver o histórico de commits;
+9 - **git push**+(origin main (nesse caso)) enviar para o repositório remoto
